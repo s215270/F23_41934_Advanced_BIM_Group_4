@@ -112,7 +112,7 @@ BIM can be used to create visual representations of thermal zones within the bui
 
 The process of our use case has been modelled in a BPMN diagram 1. 
 
-![BPMN-diagram 1]()
+![BPMN-diagram 1](https://raw.githubusercontent.com/s215270/F23_41934_Advanced_BIM_Group_4/main/A3_OpenBIM_Change/img/BPMN_diagram_1.svg)
 
 
 

@@ -112,17 +112,17 @@ BIM can be used to create visual representations of thermal zones within the bui
 
 The process of our use case has been modelled in a BPMN diagram 1. 
 
-![BPMN-diagram 1](C:\Users\cecil\Downloads\BPMN-diagram_1.svg)
+![BPMN-diagram 1](A3_OpenBIM_Change/img/BPMN_diagram_1.svg)
 
 
 
-The tool/workflow is designed to determine the heat loss of the building model. The IFC-file is imported from the building model "Skylapmodel." The model is analyzed with a focus on the external construction elements, where a lack of data is observed. Data on material layers for the constructions and their U-values is missing. The model cannot distinguish between which elements are external and internal. By scripting in Python, the missing data will be inserted, resulting in a new IFC-model that contains the necessary data to determine the heat loss of the building model. 
+The tool/workflow is designed to determine the heat loss of the building model. The IFC-file is imported from the building model "Skylabmodel." The model is analyzed with a focus on the external construction elements, where a lack of data is observed. Data on material layers for the constructions and their U-values is missing. The model cannot distinguish between which elements are external and internal. By scripting in Python, the missing data will be inserted, resulting in a new IFC-model that contains the necessary data to determine the heat loss of the building model. 
 
 
 
 Below is BPMN diagram 2, which shows the process we have created in our Python script. Here, our sole focus is to add the U-value for specific external wall types to the BIM model's dataset.
 
-![BPMN diagram 2]()
+![BPMN diagram 2](A3_OpenBIM_Change/img/BPMN_diagram_2.svg)
 
 
 

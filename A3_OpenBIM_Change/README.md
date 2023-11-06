@@ -122,7 +122,7 @@ The tool/workflow is designed to determine the heat loss of the building model. 
 
 Below is BPMN diagram 2, which shows the process we have created in our Python script. Here, our sole focus is to add the U-value for specific external wall types to the BIM model's dataset.
 
-![BPMN diagram 2](A3_OpenBIM_Change/img/BPMN_diagram_2.svg)
+![BPMN diagram 2](https://github.com/s215270/F23_41934_Advanced_BIM_Group_4/blob/main/A3_OpenBIM_Change/img/BPMN_diagram_2.svg)
 
 
 
